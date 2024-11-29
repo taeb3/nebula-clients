@@ -18,7 +18,7 @@
         <slf4j-api.version>1.7.25</slf4j-api.version>
         <junit.version>4.12</junit.version>
         <guava.version>30.0-android</guava.version>
-        <commons-codec.version>1.13</commons-codec.version>
+        <commons-codec.version>20041127.091804</commons-codec.version>
         <nebula-utils.version>1.0.0-rc2</nebula-utils.version>
     </properties>
 
